@@ -8,3 +8,6 @@ Deployed on AWS
 
 ### SQS Queue
 ![SQS Queue](ss/SQS.jpg)
+
+### LexBot
+![LexBot](ss/LexBot.jpg)
